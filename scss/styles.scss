@@ -665,12 +665,12 @@ footer {
 }
 
 .project-info {
-  position: absolute;
-  top: 50%;
+  //position: absolute;
+  //top: 50%;
   //   text-align: center;
-  transform: translateY(-50%);
-  margin-left: 350px;
-  padding: 15px;
+  //transform: translateY(-50%);
+  margin: 0 auto;
+  padding: 25px;
 
   h3 {
     font-size: 1.8em;
